@@ -1,5 +1,4 @@
 # Internship Project: Authentication Security & Password Analysis
-**Date:** January 9, 2026  
 **Subject:** Cybersecurity Best Practices & Password Entropy Evaluation
 
 ---
